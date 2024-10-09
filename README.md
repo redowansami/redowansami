@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **bsse1409@iit.du.ac.bd**
 
-- ⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts bugs—and we've got enough of those already!**
+- ⚡ Fun fact **Do you know programmers prefer dark mode? Because light attracts bugs—and we've got enough of those already!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
