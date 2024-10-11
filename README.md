@@ -19,7 +19,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=redowansami&show_icons=true&locale=en" alt="redowansami" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redowansami&" alt="redowansami" /></p>
-
 <br>
 <p> <img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTB5Y29lc20zajZ4M3Fwam51M2dkZnVzcXpmeWN5NjU2dHNjZW95ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="redowansami" /> </p>
