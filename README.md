@@ -22,4 +22,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redowansami&" alt="redowansami" /></p>
 
 <br>
-<iframe src="https://giphy.com/embed/JqmupuTVZYaQX5s094" width="480" height="343" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094">via GIPHY</a></p>
+<p> <img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTB5Y29lc20zajZ4M3Fwam51M2dkZnVzcXpmeWN5NjU2dHNjZW95ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="redowansami" /> </p>
