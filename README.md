@@ -20,3 +20,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=redowansami&show_icons=true&locale=en" alt="redowansami" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redowansami&" alt="redowansami" /></p>
+
+<br>
+<iframe src="https://giphy.com/embed/JqmupuTVZYaQX5s094" width="480" height="343" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094">via GIPHY</a></p>
